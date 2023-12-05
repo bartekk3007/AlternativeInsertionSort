@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\48571\source\repos\AlternativeInsertionSert\AlternativeInsertionSert\main.c(23): warning C4715: "make_node”: niewszystkie ścieżki kodu zwracają wartość
+  AlternativeInsertionSert.vcxproj -> C:\Users\48571\source\repos\AlternativeInsertionSert\x64\Debug\AlternativeInsertionSert.exe
